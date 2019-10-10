@@ -12,5 +12,8 @@
     <item android:id="@+id/action_cardview"
         android:title="@string/with_card_view"
         app:showAsAction="never"/>
+    <item android:id="@+id/action_cardview"
+        android:title="Profile"
+        app:showAsAction="never"/>
 
 </menu>
